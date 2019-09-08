@@ -1,0 +1,2 @@
+# simpos
+Aplikasi simpel POS
