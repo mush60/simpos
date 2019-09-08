@@ -1,2 +1,2 @@
 # simpos
-Aplikasi simpel POS
+Aplikasi simpel POS menggunakan yii
